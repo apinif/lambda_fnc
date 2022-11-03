@@ -1,3 +1,4 @@
 requests
 aws-lambda-powertools
 reportlab
+boto3
